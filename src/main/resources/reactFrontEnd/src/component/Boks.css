@@ -1,0 +1,40 @@
+.card{
+    background: url(./Img/ba1.jpg) no-repeat;
+    background-size: 75%;
+    text-decoration-skip: black;
+    box-shadow: 4px 5px 8px 7px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card-img, .card-img-bottom, .card-img-top {
+    flex-shrink: 0;
+    width: 50%;
+    margin-left: 170px;
+}
+.bak{
+    margin-top: 120px;
+    background: url(./Img/55.jpg) center   no-repeat;
+    background-size: 100%;
+    box-shadow: 4px 5px 8px 7px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+ }
+  .navco{
+    box-shadow: 8px 5px 8px 7px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-image: -webkit-linear-gradient(
+        left,
+        rgba(238, 36, 36, 0.9),
+        rgb(223, 217, 132),
+        rgba(211, 233, 197, 0.9)
+
+      ) 
+     }
+     .bak1{ margin-top: 70px;}
+     h1{
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     }
+  .aa{
+    box-shadow: 8px 5px 8px 7px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  }
+  .listBook{
+      margin-top: 70px;
+  }
+    
